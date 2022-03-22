@@ -1,4 +1,6 @@
 <xml>
 <name>Nastya</name/>
 <age>25</age>
+<sity>Rostov</city>
+<from>Russia<
 
