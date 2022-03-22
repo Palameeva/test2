@@ -1,0 +1,4 @@
+<xml>
+<name>Nastya</name/>
+<age>25</age>
+
